@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anthv1
-- 👀 I’m interested in boxing and music
-- 🌱 I’m currently learning data structure and algos
+- 👋 Hi, I’m Anthony
+- 👀 I’m interested in Cyber Security and AI
+- 🌱 I’m currently learning OOPs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
